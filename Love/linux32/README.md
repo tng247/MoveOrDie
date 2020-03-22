@@ -22,7 +22,7 @@ The following additional libraries are required for distribution:
 * [liblz4.so](https://packages.ubuntu.com/search?arch=i386&keywords=liblz4-1)
 * [liblzma.so](https://packages.ubuntu.com/search?arch=i386&keywords=liblzma5)
 * [libpulse.so](https://packages.ubuntu.com/search?arch=i386&keywords=libpulse0)
-* [libpulsecommon-13.0](https://packages.ubuntu.com/search?arch=i386&keywords=libpulse0)
+* [libpulsecommon-13.0.so](https://packages.ubuntu.com/search?arch=i386&keywords=libpulse0)
 * [libsndfile.so](https://packages.ubuntu.com/search?arch=i386&keywords=libsndfile1)
 * [libsystemd.so](https://packages.ubuntu.com/search?arch=i386&keywords=libsystemd0)
 * [libvorbisenc.so](https://packages.ubuntu.com/search?arch=i386&keywords=libvorbisenc2)
